@@ -1,2 +1,4 @@
 # online-store
-#new
+# nuxtjs => client
+# server => nodejs
+# 
