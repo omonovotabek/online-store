@@ -1,0 +1,4 @@
+{
+    "serverPort":8000,
+    "MONGO_URI":"mongodb+srv://root:root@cluster0.swh2i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
